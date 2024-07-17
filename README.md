@@ -1,4 +1,4 @@
-# Angular Storefront FE - Crash Course
+# Angular Storefront 
 
 This project is a simple storefront built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. In this tutorial, users will learn how to perform basic CRUD (Create, Read, Update, Delete) operations on products.
 
@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-client.git
+   git clone https://github.com/sanvikarthik/angular_app_frontend
    ```
 
 2. Install dependencies:
@@ -51,6 +51,3 @@ Before you begin, ensure you have the following installed:
    ```
 2. Open your browser and navigate to http://localhost:4200/ to see the app in action.
 
-## License
-
-This project is licensed under the MIT License.
