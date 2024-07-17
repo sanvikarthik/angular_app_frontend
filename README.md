@@ -9,8 +9,6 @@ This project is a simple storefront built with Angular, showcasing various Angul
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-
 ## Features
 
 - **Standalone App:** The project is structured as a standalone Angular application.
